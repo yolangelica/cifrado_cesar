@@ -1,0 +1,9 @@
+README
+CIFRADO CESAR= cifrado de sustitucion cada letra se reemplaza por otra
+formila (x+n)%26
+-Obtener frase del usuario
+- Obtener el codigo ASCII de las letras que nos brinde el usuario
+- convertir a la posicion del alfabeto 
+-convertir la formula
+- luego de la posicion del alfabeto normal pasar la posicion a codigo ASCII
+- retorna las letras modificadas en codigo ASCII
